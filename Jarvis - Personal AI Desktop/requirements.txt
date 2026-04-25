@@ -1,0 +1,17 @@
+SpeechRecognition
+pyttsx3
+pyautogui
+playsound
+opencv-python
+PyPDF2
+openai
+requests
+pywhatkit
+screen-brightness-control
+comtypes
+pycaw
+psutil
+pyjokes
+keyboard
+pygame
+Pillow

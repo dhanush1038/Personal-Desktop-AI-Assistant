@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+__pycache__/
+
+# IDE
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Sensitive config (contains API keys)
+config.py
+
+# System files
+*.pyc
+*.pyo
+PyWhatKit_DB.txt
+notes_*.txt
+screenshot_*.png
