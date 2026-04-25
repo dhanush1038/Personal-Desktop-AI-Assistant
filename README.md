@@ -1,8 +1,8 @@
 <div align="center">
 
-![J.A.R.V.I.S. — Personal AI Desktop Assistant](assets/jarvis_banner.png)
+![A L E X . — Personal AI Desktop Assistant](assets/jarvis_banner.png)
 
-# 🤖 J.A.R.V.I.S. — Personal AI Desktop Assistant
+#  ALEX. — Personal AI Desktop Assistant
 
 ### _"Just A Rather Very Intelligent System"_
 
